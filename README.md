@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi ,welcome to my profile 👋
+Here are some self-description help you being familiar with me.
 
-<!--
-**zoooooway/zoooooway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏫 I'm a software engineer and currently work with Java.
+- 💪 I'm currently learning Golang.
+- 🕗 I'm from China （UTC+8）
+- 📫 Reach me by email: [ashandcli@gmail.com](mailto:ashandcli@gmail.com)
+   
+Following is my github stats
+  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zoooooway)](https://github.com/anuraghazra/github-readme-stats) 
